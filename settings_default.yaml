@@ -1,0 +1,2 @@
+{CACHE_SIZE: 100, CHAR_BLACKLIST: '!@#$%^&():;* ', CONFIDENCE_PERCENT: 0.4, DATABASE: database,
+  FILE_IN: data.csv, HOST: local host, INFERENCE_SIZE: 1000, USERNAME: username}
