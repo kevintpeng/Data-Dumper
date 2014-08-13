@@ -3,9 +3,12 @@ Data-Dumper
 This project was created by Kevin Peng in July 2014. The Data Dumper is useful for processing data from the form .csv and cleaning up formatting, mapping information and exporting to postgreSQL and Django. Why is it important to sanitize data? Well this [XKCD](http://imgs.xkcd.com/comics/exploits_of_a_mom.png) comic gives a nice explanation.
 
 The file format that it will take as input is called a .csv file. CSV stands for Comma, Separated, Values. It is a common file type for storing data in the form of a table. One problem is its lack of standardization, and this can lead to issues when analyzing data from it. It is for this reason that we use the data dumper to clean up data.
+For setting up Dev Environment, check [Installation](https://github.com/kevinpeng97/Data-Dumper/blob/master/README.md#installation).
+For understanding the functions of the program, check [Functions](https://github.com/kevinpeng97/Data-Dumper/blob/master/README.md#functions).
+For Help navigating the GUI and first time set up, check [Usage](https://github.com/kevinpeng97/Data-Dumper/blob/master/README.md#usage)
 
 ## Installation
-This section will cover all prerequisites to be able to run the data dumper. I am working in Windows 8.1, so installation will vary with OS. These installations must be complete in order to run the data dumper.
+This section will cover setting up your dev environment such that it has all prerequisites to be able to run the data dumper. I am working in Windows 8.1, so installation will vary with OS. These installations must be complete in order to run the data dumper.
 ##### Install Python 2.7
 Download [Python 2.7](http://downloads.activestate.com/ActivePython/releases/2.7.6.9/ActivePython-2.7.6.9-win32-x86.msi) from [ActiveState Python 2.7 x32](http://www.activestate.com/activepython/downloads)
 
